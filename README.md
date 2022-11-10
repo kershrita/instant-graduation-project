@@ -1,7 +1,7 @@
 # Instant Software Solution
 Instant Software Solution is a software company that relies primarily on innovative and modern solutions in the field of software and is a modern company that uses all tools, We keep things simple, putting you in control so you can make informed choices.
 
-# Project Decsripton
+# Project Description
 In this project we used C++ programming language, OOP for C++, data structure and SOLID principles to make cashier library system.
 
 System has employees [fixed/dynamic]
