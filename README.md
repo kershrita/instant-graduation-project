@@ -10,7 +10,7 @@ System has employees [fixed/dynamic]
 
 System has books [Engineering/Medical/Religious], magazines and short storys
 - books has stock of 9
-- magazines and short storys hase no stock
+- magazines and short storys has no stock
 
 System has actions [sell/borrow]
 - fixed employee can sell and borrow
